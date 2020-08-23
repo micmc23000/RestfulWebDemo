@@ -1,0 +1,14 @@
+com\micmc23000\mictest\Brewery.class
+com\micmc23000\mictest\Useraccount.class
+com\micmc23000\mictest\Brewerygeocode.class
+com\micmc23000\mictest\service\BrewerygeocodeFacadeREST.class
+com\micmc23000\mictest\service\BreweryFacadeREST.class
+com\micmc23000\mictest\Style.class
+com\micmc23000\mictest\service\AbstractFacade.class
+com\micmc23000\mictest\service\BeerFacadeREST.class
+com\micmc23000\mictest\service\UseraccountFacadeREST.class
+com\micmc23000\mictest\Category.class
+com\micmc23000\mictest\service\StyleFacadeREST.class
+com\micmc23000\mictest\Beer.class
+com\micmc23000\mictest\service\CategoryFacadeREST.class
+com\micmc23000\mictest\service\ApplicationConfig.class
